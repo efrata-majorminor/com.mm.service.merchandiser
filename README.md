@@ -1,1 +1,1 @@
-# com.mm.service.merchandiser
+# com.bateeq.service.merchandiser
